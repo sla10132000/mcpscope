@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mcpscope": {
+      "command": "uv",
+      "args": ["run", "python", "server.py"],
+      "cwd": "/Volumes/Data/work/prj/code/mcp/mcpscope"
+    }
+  }
+}
